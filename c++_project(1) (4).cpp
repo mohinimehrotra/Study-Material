@@ -10,6 +10,8 @@ class student{
 		void newdata();
 		
 };
+
+//This method checks for user email
 void student::olddata()
 {
 	int value=0;
